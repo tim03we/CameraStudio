@@ -1,0 +1,24 @@
+---
+prefix: "§8[§cCS§8] §7"
+
+help: "§8»\n§8» §c/camera add\n§8» §c/camera remove <number>\n§8» §c/camera tp <number>\n§8» §c/camera reset\n§8» §c/camera list\n§8» §c/camera start <time>\n§8» §c/camera stop\n§8»"
+
+point.added: "Point %1 has been added."
+point.removed: "Point %1 has been removed."
+no.points: "You didn't set any point(s)."
+no.point.size: "You do not have a point number %1."
+not.enough.points: "Not enough points have been set yet."
+points.reset: "All previous camera points have been deleted."
+point.teleport: "You were teleported to point %1."
+already.travelling: "You are already travelling."
+travel.cancelled: "Travelling has been cancelled."
+start.example: "Use for example §c1m30s§7."
+travelling.started: "Please do not move during the time travel."
+travelling.finished: "Successfully completed. You can now move again."
+travelling.error: "An error has occurred during travel."
+specify.number: "Specify a number."
+not.a.number: "%1 is not a number."
+
+point.list.title: "Camera Points:"
+point.list: "§8» §cPoint: §7%1 §cX: §7%2 §cY: §7%3 §cZ: §7%4 §cYaw: §7%5 §cPitch: §7%6"
+...
